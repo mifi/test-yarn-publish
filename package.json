@@ -1,0 +1,12 @@
+{
+  "name": "@mifi/test-yarn-publish",
+  "version": "0.0.0",
+  "packageManager": "yarn@4.0.1",
+  "repository": "mifi/test-yarn-publish",
+  "scripts": {
+    "test": "echo mock test"
+  },
+  "files": [
+    "index.js"
+  ]
+}
