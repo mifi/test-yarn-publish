@@ -1,6 +1,6 @@
 {
   "name": "@mifi/test-yarn-publish",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "yarn@4.0.1",
   "repository": "mifi/test-yarn-publish",
   "scripts": {
